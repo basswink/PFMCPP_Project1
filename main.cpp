@@ -67,72 +67,81 @@ mircrowave.cook();
 //  action 2: A microwave defrosts frozen food
 microwave.defrost();
 //  action 3: A microwave counts down time, like a timer
-microwave.countdown();
+microwave.countDown();
 
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Car
+//  action 1: A Car accelerates to move faster
+car.accelerate();
+//  action 2: A Car decelerates via the brakes to slow down
+car.decelerate();
+//  action 3: A car illuminates the road ahead via the headlights
+car.turnOnHeadlights();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: pencil
+//  action 1: A pencil draws shapes
+pencil.draw();
+//  action 2: A pencil writes words to make sentences
+pencil.write();
+//  action 3: A pencil Shades shapes to add depth and dimension
+pencil.shade();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: HVAC System
+//  action 1: an HVAC System cools down a room
+hvacSystem.cool();
+//  action 2: An HVAC System heats a room to make it warmer
+hvacSystem.heat();
+//  action 3: an Hvac System filters the room of airborne iratants
+hvacSystem.filter();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Amp Modeler
+//  action 1: An Amp modeler passes audio through a system of effects
+ampModeler.passAudio();
+//  action 2: An Amp modeler processess distortion effect
+ampModeler.processDistortion();
+//  action 3: An Amp Modeler processes delay effects.
+ampModeler.processDelay();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: Campfire
+//  action 1: A campfire illuminates the campsite
+campfire.illuminate();
+//  action 2: A campfire heats up the campers
+campfire.heat();
+//  action 3: A campfire cooks food
+campfire.cook();
 
-//  action 2:
-
-//  action 3:
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Oven
+//  action 1: an oven bakes cookies
+oven.bake();
+//  action 2: An oven Broils crabs
+oven.broil();
+//  action 3: an oven roasts chicken
+oven.roast();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Water
+//  action 1: Water soaks most things
+water.soak();
+//  action 2: Water hydrates human beings
+water.hydrate();
+//  action 3: Water dissolves salt
+water.dissolve();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Airplane
+//  action 1: An airplane takes off from a runway
+airplane.takeOff();
+//  action 2: An airplane decends towards the earth
+airplane.decend();
+//  action 3: an airplane banks left or right
+airplane.bank();
 
 
 
