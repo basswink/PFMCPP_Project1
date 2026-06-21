@@ -52,20 +52,23 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Cell Phone
+//  action 1: The Phone Sends a Text Message
+phone.sendTextMessage();
+//  action 2: The Phone connects a voice call to another phone
+phone.connectVoiceCall();
+//  action 3: The Phone Sends a GPS signal to give its location
+phone.sendGpsSignal();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Microwave
+//  action 1: A microwave cooks food
+mircrowave.cook();
+//  action 2: A microwave defrosts frozen food
+microwave.defrost();
+//  action 3: A microwave counts down time, like a timer
+microwave.countdown();
 
-//  action 2:
-
-//  action 3:
 
 //  3)
 //  Noun:
